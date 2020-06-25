@@ -14,5 +14,5 @@ Softaware | Descrição |Imagem
 </p>
 Airplane Shots é o primeiro jogo que desenvolvi no GDeveloper, como é o primeiro só peguei um jogo de exemplos e montei os sprites. Por este motivos o jogo é curto e com alguns bugs. O objetivo do jogo é vencer o chefão, para isso use as setas do teclado para se mover, espaço para lançar tiros e aperte em MUDAR para mudar o poder de ataque.
 <p align="center">
-  <a href="https://mega.nz/file/Lc1T0RhJ#EzP-74DkMaAwj7fYoKu4-ycHaxBbsIFNXnHwW23CzcM"><img width="200" src="https://github.com/EuCarlos/Games/blob/master/imagens/botao1.png"></a><a href="https://games.gdevelop-app.com/game-6d5b344c-2f26-4465-811f-a0fa39480f11/index.html"><img width="200" src="https://github.com/EuCarlos/Games/blob/master/imagens/botao2.png"></a>
+  <a href="https://mega.nz/file/Lc1T0RhJ#EzP-74DkMaAwj7fYoKu4-ycHaxBbsIFNXnHwW23CzcM" target="_blank><img width="200" src="https://github.com/EuCarlos/Games/blob/master/imagens/botao1.png"></a><a href="https://games.gdevelop-app.com/game-6d5b344c-2f26-4465-811f-a0fa39480f11/index.html" target="_blank><img width="200" src="https://github.com/EuCarlos/Games/blob/master/imagens/botao2.png"></a>
 </p>
