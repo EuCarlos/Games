@@ -1,8 +1,10 @@
 # Games
-### A Tecnologia
+### As Tecnologias utilizadas no projeto
 Softaware | Descrição |Imagem
 :---: | :--- | :----:
-<b>GDevelop:</b> | É uma engine de jogo open-sorce, nesta engine pode criar jogos sem precisar programar, multiplataforma, criado para todos. | <img src="https://img.utdstc.com/icons/gdevelop-windows.png:225" alt="some text" width=100>
+<b>GDevelop:</b> | É uma engine de jogo open-source, nesta engine pode criar jogos sem precisar programar, multiplataforma, criado para todos. | <img src="https://img.utdstc.com/icons/gdevelop-windows.png:225" alt="some text" width=100>
+<b>Piskel:</b> | Ferramenta open-source para criação de animação pixel art. O usuário pode montar animações com frames de forma online, personalizada e gratuita. | <img src="https://opensource.com/sites/default/files/images/life-uploads/piskel.png" alt="some text" width=100>
+
 ##### Os objetivos deste projeto são:
 - [x] Estudar animações pixel para jogos;
 - [x] Estudar logica e fisica para games;
