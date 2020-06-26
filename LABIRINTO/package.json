@@ -1,0 +1,17 @@
+{
+    "name": "labirinto",
+    "main": "main.js",
+    "productName": "LABIRINTO",
+    "description": "LABIRINTO",
+    "author": "Carlos Alves",
+    "version": "1.0.0",
+    "dependencies": {},
+    "devDependencies": {
+      "electron": "3.0.9"
+    },
+    "build": {
+        "directories": {
+            "buildResources": "buildResources"
+        }
+    }
+}
