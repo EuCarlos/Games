@@ -21,7 +21,7 @@ Airplane Shots é o primeiro jogo que desenvolvi no GDevelop 5, como é o primei
 
 ### LABIRINTO
 
-Meu segundo jogo desenvolvido no GDevelop 5, foi criado do zero. O objeto d jogo é descobrindo onde é o fim do labirinto. Se o jogo estiver muito complicado clique para [ver o mapa.](http://www.google.com/)
+Meu segundo jogo desenvolvido no GDevelop 5, foi criado do zero. O objeto d jogo é descobrindo onde é o fim do labirinto. Se o jogo estiver muito complicado clique para [ver o mapa.](https://raw.githubusercontent.com/EuCarlos/Games/master/imagens/Mapa-do-Jogo.PNG)
 <p align="center">
   <a href="https://mega.nz/file/rd9FwL6Q#ML3K_AReqY4CyF4xiqSgECfLj7jfpM2vWhmIN18akog" target="_blank"><img width="200" src="https://github.com/EuCarlos/Games/blob/master/imagens/botao1.png"></a><a href="https://games.gdevelop-app.com/game-c65ac604-0aa6-4e3d-b775-fdc06f1a4959/index.html" target="_blank"><img width="200" src="https://github.com/EuCarlos/Games/blob/master/imagens/botao2.png"></a>
 </p>
