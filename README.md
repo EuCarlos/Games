@@ -20,6 +20,9 @@ Airplane Shots é o primeiro jogo que desenvolvi no GDevelop 5, como é o primei
 </p>
 
 ### LABIRINTO
+<p align="center">
+  <img width="460" src="https://raw.githubusercontent.com/EuCarlos/Games/master/imagens/LABIRINTO.gif">
+</p>
 
 Meu segundo jogo desenvolvido no GDevelop 5, foi criado do zero. O objeto d jogo é descobrindo onde é o fim do labirinto. Se o jogo estiver muito complicado clique para [ver o mapa.](https://raw.githubusercontent.com/EuCarlos/Games/master/imagens/Mapa-do-Jogo.PNG)
 <p align="center">
