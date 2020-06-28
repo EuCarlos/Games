@@ -1,7 +1,7 @@
 # Games
 Este respositorio são um conjunto de 3 jogos que estão sendo desenvolvidos em HTML 5 e Javascript pela ferramenta GDevelop 5. Não está disponivel os arquivos do **Airplane Shot** no repositorio por está cheio de bug e foi só troca de sprite para testar animações e movimento. Os arquivos do **LABIRINTO** estão disponiveis em `Labirinto` para acessar o jogo localmente procure pelo arquivo `index.html`.
 
-**OBS.:** Abaixo estão disponiveis os executaveis dos jogos no formato `.exe` e os links para acessar online.
+**OBS.:** Abaixo estão disponiveis os executaveis dos jogos no formato `.exe` e os links para jogar online.
 ### As Tecnologias utilizadas no projeto
 Softaware | Descrição |Imagem
 :---: | :--- | :----:
