@@ -1,5 +1,5 @@
 # Games
-Este respositorio são um conjunto de 3 jogos que estão sendo desenvolvidos em HTML 5 e Javascript pela ferramenta GDevelop 5. Não está disponivel os arquivos do **Airplane Shot** no repositorio por está cheio de bug e foi só troca de sprite para testar animações e movimento. Os arquivos do **LABIRINTO** estão disponiveis em `Labirinto` para acessar o jogo localmente procure pelo arquivo `index.html`.
+Este respositorio são um conjunto de 3 jogos que estão sendo desenvolvidos em HTML 5 e Javascript pela ferramenta GDevelop 5. Não está disponivel os arquivos do **Airplane Shot** no repositorio por está cheio de bug e foi só troca de sprite para testar animações e movimento. Os arquivos do **LABIRINTO** estão disponiveis no diretorio `Labirinto` para acessar o jogo localmente procure pelo arquivo `index.html`. E os arquivos do **Moto RunPix** estão no `Moto RunPix` com acesso local `.index.html`
 
 **OBS.:** Abaixo estão disponiveis os executaveis dos jogos no formato `.exe` e os links para jogar online.
 ### As Tecnologias utilizadas no projeto
@@ -37,5 +37,5 @@ Meu segundo jogo desenvolvido no GDevelop 5, foi criado do zero. O objeto do jog
 
 Este é o terceiro jogo desenvolvido no GDevelop 5, foi criado do zero tambêm. O Objetivo do jogo é chegar até o final do percusso sem bater nos obstaculos que exite durante o trajeto.
 <p align="center">
-  <a href="https://mega.nz/" target="_blank"><img width="200" src="https://github.com/EuCarlos/Games/blob/master/imagens/botao1.png"></a><a href="https://games.gdevelop-app.com/game-317389c4-7391-4948-9ecb-fe822effa580/index.html" target="_blank"><img width="200" src="https://github.com/EuCarlos/Games/blob/master/imagens/botao2.png"></a>
+  <a href="https://mega.nz/file/CRE0zITT#wgSGoOgHM_pJYnCJ0WOeBp94NOsW9xAMXjym_v4mbg4" target="_blank"><img width="200" src="https://github.com/EuCarlos/Games/blob/master/imagens/botao3.png"></a><a href="https://mega.nz/file/zF83xRZJ#SUU4tjMs0guOE-h9mywI7E5-xvj6HMH9xVPSFaSZRac" target="_blank"><img width="200" src="https://github.com/EuCarlos/Games/blob/master/imagens/botao1.png"></a><a href="https://games.gdevelop-app.com/game-317389c4-7391-4948-9ecb-fe822effa580/index.html" target="_blank"><img width="200" src="https://github.com/EuCarlos/Games/blob/master/imagens/botao2.png"></a>
 </p>
